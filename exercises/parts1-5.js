@@ -55,5 +55,5 @@ console.log("It will take the craft ".concat(spaceShuttle.spacecraftName, " a to
 // Add the required import statement BEFORE the part 1 concent.
 // Add the printDaysToLocation function to the Spacecraft class.
 // Paste in the code from step 6 here:
-spaceShuttle.printDaysToLocation(new SpaceLocation_1.SpaceLocation('Mears', kilometersToMars));
-spaceShuttle.printDaysToLocation(new SpaceLocation_1.SpaceLocation('tehe Moon', kilometersToTheMoon));
+spaceShuttle.printDaysToLocation(new SpaceLocation_1.SpaceLocation('Mars', kilometersToMars));
+spaceShuttle.printDaysToLocation(new SpaceLocation_1.SpaceLocation('the Moon', kilometersToTheMoon));
