@@ -84,7 +84,7 @@ console.log(`It will take the craft ${spaceShuttle.spacecraftName} a total of ${
 
 // Paste in the code from step 6 here:
 
-//spaceShuttle.color = "stainless steel";
+spaceShuttle.color = "stainless steel";
 spaceShuttle.printDaysToLocation(new SpaceLocation('Mars', kilometersToMars));
 spaceShuttle.printDaysToLocation(new SpaceLocation('the Moon', kilometersToTheMoon));
-//console.log(spaceShuttle.color);
+console.log(spaceShuttle.color);
